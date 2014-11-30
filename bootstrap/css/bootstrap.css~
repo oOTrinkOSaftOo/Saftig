@@ -45,9 +45,7 @@ aside,
 details,
 figcaption,
 figure,
-footer{
-position:bottom;
-},
+footer,
 header,
 hgroup,
 nav,
